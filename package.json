@@ -1,0 +1,10 @@
+{
+  "name": "vue-meta-repro",
+  "private": true,
+  "scripts": {
+    "start": "nuxt"
+  },
+  "dependencies": {
+    "nuxt": "^1.4.1"
+  }
+}
